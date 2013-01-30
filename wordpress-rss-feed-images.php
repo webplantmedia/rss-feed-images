@@ -1,7 +1,7 @@
 <?php
 
 /*
-Plugin Name: Argyle RSS Thumbnails
+Plugin Name: WordPress RSS Feed Images
 Description: Adds a post thumbnail to your RSS feed.
 Version: 0.1.0
 License: GPL2+

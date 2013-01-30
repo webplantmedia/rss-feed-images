@@ -5,7 +5,12 @@ Add Post Thumbnail Images to RSS Feed
 
 This is just a simple plugin that will pull featured image thumbnails into your WordPress RSS feed.
 
-You can also add the code to functions.php instead of using it as a plugin.
+## Usage
+
+Instead of using as a plugin you can copy the code from `wordpress-rss-feed-images.php` into your `functions.php`
+
+This plugin will also work as a must-use plugin by uploading `wordpress-rss-feed-images.php` to `/wp-content/mu-plugins/`
+
 
 
 ## Contributors
